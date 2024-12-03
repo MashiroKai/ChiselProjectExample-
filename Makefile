@@ -1,5 +1,5 @@
 #Initial scala file
 init :
 	git clone https://github.com/MashiroKai/ChiselProjectExample-.git
-lib init :
+libinit :
 	git clone https://github.com/MashiroKai/Chisellib.git
